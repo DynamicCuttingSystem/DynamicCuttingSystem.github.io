@@ -10,7 +10,7 @@ url: ""
 baseurl: ""
 header-img: img/home-bg.png
 headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/header-logo.png
 
 # Tertiary Parameters
 github_username: dynamiccuttingsystem
